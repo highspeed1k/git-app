@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
-import './App.css';
+import './App.css'
+import ToDo from './components/ToDo.js'
 
 
-class App extends Component
+class App extends Component{
 constructor(props) {
     super(props);
     this.state = {
