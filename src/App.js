@@ -10,7 +10,7 @@ constructor(props) {
        todos: [
          { description: 'Walk the cat', isCompleted: true },
          { description: 'Throw the dishes away', isCompleted: false },
-         { description: 'Buy new ', isCompleted: false }
+         { description: 'Buy ne ', isCompleted: false }
        ],
         newTodoDescription: ''
      };
